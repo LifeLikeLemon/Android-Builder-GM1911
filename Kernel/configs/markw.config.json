@@ -3,5 +3,5 @@
   "repo": "https://github.com/crdroidandroid/android_kernel_oneplus_sm8150",       // 内核源码的仓库地址
   "branch": "14.0",     // 对应内核源码仓库的 分支 名称
   "device": "GM1911",     // 对应的设备编号
-  "defconfig": "arch/arm64/configs/vendor/sm8150_defconfig"   // 对应的 defconfig 文件相对路径
+  "defconfig": "vendor/sm8150_defconfig"   // 对应的 defconfig 文件相对路径
 }
