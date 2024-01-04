@@ -9,7 +9,7 @@
     },
     "toolchains": [
       {
-        "repo": "https://android.googlesource.com/platform/prebuilts/clang/host/linux-x86/+/refs/heads/main",
+        "repo": "https://android.googlesource.com/platform/prebuilts/clang/host/linux-x86/+/refs/heads/master",
         "branch": "clang-r498229b",
         "name": "clang",
         "binaryEnv": [
